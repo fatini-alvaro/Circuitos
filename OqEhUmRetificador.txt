@@ -1,0 +1,1 @@
+Um retificador é um dispositivo elétrico que transforma uma corrente que muda de direção várias vezes por segundo (corrente alternada) em uma corrente que flui em uma única direção (corrente contínua). Isso é útil em muitas aplicações elétricas, como em fontes de alimentação de eletrônicos.
